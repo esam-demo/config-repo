@@ -3,7 +3,7 @@ spring.jpa.show-sql: "true"
 spring.jpa.hibernate.ddl-auto: "update"
 spring.datasource.url: "jdbc:mysql://kub-client:3306/esam"
 spring.datasource.username: "esam"
-spring.datasource.password: "63oF#5ig"
+spring.datasource.password: "{cipher}aeb08a59ffc9803d2369171004df9e3494355c54c9e38ee506a727c0401757ae"
 
 #spring.jpa.database: "POSTGRESQL"
 #spring.datasource.platform:  "postgres"
