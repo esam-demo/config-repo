@@ -1,4 +1,4 @@
-example.property: "I AM THE DEFAULT RESOURCE SERVICE"
+example.property: "I AM IN THE DEV"
 
 spring:
   jpa:
@@ -10,9 +10,10 @@ spring:
     username: "esam"
     password: "{cipher}AQAXe/7+jYyg6OF4rWrM9p9LyZ4l3AutdkwiPaLHyzd0lj47oPvBzfbtXT6pwblqFHL0cYSOfurYn1E3M+/yLsw0bDHiFj5aOPbjwx6/xktuPfhivsI5QTxRhsuo8o5Ya5PiAncZ4+HQATaoGwu3vpcNPP5q4NK11gdsScNVeWjOUxcVeFtSIvjrl1hzcAWBk+9ru+VHy6cqwLQavITRkCQzz4EmyH+r+7JC6x5Mv3np2ONAZavHHNBUch8lRbuRA0ybPCqBQG8E5KWVK7wyKtWFfVZLEUqotGv+STH2wDoiLzEOLLx+bnYpFoxuGWeLjml3OkasBC+Bjv37YP8AxFVHwj9FXiOIZ5+mAVUAUV2D7FzmZb++RdD50m/0ma3CCPs="
 
+
 #spring.jpa.database: "POSTGRESQL"
 #spring.datasource.platform:  "postgres"
-#spring.jpa.show-sql: "true"
+#spring.jpa.show-sql: "false"
 #spring.database.driverClassName: "org.postgresql.Driver"
 #spring.datasource.url: "jdbc:postgresql://changjiang:5432/esam"
 #spring.datasource.username: "postgres"
